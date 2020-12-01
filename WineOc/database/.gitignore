@@ -1,2 +1,3 @@
+/config/database.php
 *.sqlite
 *.sqlite-journal
